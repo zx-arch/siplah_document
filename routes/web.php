@@ -19,3 +19,4 @@ Route::get('/', function () {
 });
 
 Route::get('/pembatalan_transaksi', [PembatalanTransaksiController::class, 'index']);
+Route::post('/pembatalan_transaksi/download', [PembatalanTransaksiController::class, 'download']);
