@@ -277,3 +277,17 @@ header .slider {
 .wrapper button:hover {
     transform: scale(0.98);
 }
+
+#pdfFile {
+            display: none;
+        }
+
+        /* Gaya tombol yang disesuaikan */
+        #customButton {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 15px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+        }

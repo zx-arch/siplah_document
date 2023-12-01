@@ -6,7 +6,7 @@
             <span class="mx-2">Dashboard</span>
         </a>
         <a href="{{ url('pembatalan_transaksi') }}" class="nav-link">
-            <i class='bx bxs-user-circle'></i>
+            <i class='bx bxs-file-blank'></i>
             <span class="mx-2">Pembatalan Transaksi</span>
         </a>
     </ul>
